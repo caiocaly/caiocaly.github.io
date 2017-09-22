@@ -1,3 +1,23 @@
-* {
-	font-family: "Nunito";
+*{font-family: 'Share Tech Mono', monospace;
+}
+
+h1 {
+	font-weight: bold;
+}
+
+body {
+	background-image: url("asset/space.jpg");
+}
+
+div {
+	position: relative;
+	margin: auto;
+	background-color: white;
+	border-radius: 10px;
+	max-width: 720px;
+
+}
+
+#frame {
+		padding: 20px;
 }
